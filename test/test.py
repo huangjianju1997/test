@@ -14,7 +14,4 @@ print("hello world")
 print("做一个冷静的人")
 print("在做一个实验")
 print("pull test")
-ADCHNAJCNJCSDC
-SACNMLNC MNC MDCASD
-ACNASDMLCNMASDC
-
+print("在重新来一次，应该挺好的")
