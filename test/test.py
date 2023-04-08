@@ -13,3 +13,5 @@ print("hello git")
 print("hello world")
 print("做一个冷静的人")
 print("在做一个实验")
+print("pull test")
+
