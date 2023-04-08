@@ -11,3 +11,4 @@ print(s)
 
 print("hello git")
 print("hello world")
+print("做一个冷静的人")
